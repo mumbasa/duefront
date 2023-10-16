@@ -11,3 +11,33 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.rdt_TableHeadRow {
+  color: #ced4da;
+  font-size: 0.875rem;
+  background: #343a40 !important;
+}
+
+
+nav.isdzTY{
+  color: #ced4da;
+  font-size: 0.875rem;
+  background: #212529 !important;
+}
+
+.sc-jrkPcm .bPokRt .rdt_TableRow{
+  background: #212529 !important;
+ 
+
+}
+.fafa .rdt_TableRow {
+  color: #ced4da;
+  font-size: 1.875rem;
+  background: #343a40 !important;
+}
+
+.rdt_TableCell {
+  color: #ced4da;
+  line-height: 1.5;
+  font-size: 0.875rem;
+}
